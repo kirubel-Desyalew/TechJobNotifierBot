@@ -1,0 +1,16 @@
+{
+  "name": "fetchjobsbot",
+  "version": "1.0.0",
+  "description": "a telgram bot to fetch tech jobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
